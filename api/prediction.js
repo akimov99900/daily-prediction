@@ -41,7 +41,7 @@ export default async function handler(req, res) {
           <meta property="fc:frame" content="vNext" />
           <meta property="fc:frame:image" content="https://i.imgur.com/8B3Vx2k.png" />
           <meta property="fc:frame:button:1" content="🔄 Новое предсказание" />
-          <meta property="fc:frame:post_url" content="https://your-app.vercel.app/api/prediction" />
+          <meta property="fc:frame:post_url" content="https://1-beta-tan.vercel.app/api/prediction" />
           <meta property="og:image" content="https://i.imgur.com/8B3Vx2k.png" />
       </head>
       <body>
@@ -62,7 +62,7 @@ export default async function handler(req, res) {
           <meta property="fc:frame:image" content="https://i.imgur.com/6Q3Vx1j.png" />
           <meta property="fc:frame:button:1" content="👨 Мужчина" />
           <meta property="fc:frame:button:2" content="👩 Женщина" />
-          <meta property="fc:frame:post_url" content="https://your-app.vercel.app/api/prediction" />
+          <meta property="fc:frame:post_url" content="https://1-beta-tan.vercel.app/api/prediction" />
       </head>
       <body></body>
       </html>
